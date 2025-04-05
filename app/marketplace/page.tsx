@@ -1,3 +1,4 @@
+"use client"
 import { Suspense } from "react"
 import ProductList from "@/components/product-list"
 import FilterSidebar from "@/components/filter-sidebar"

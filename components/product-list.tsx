@@ -1,3 +1,4 @@
+"use client"
 import ProductCard from "@/components/product-card"
 import { getMockProducts } from "@/lib/mock-data"
 
